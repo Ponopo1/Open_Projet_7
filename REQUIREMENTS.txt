@@ -14,7 +14,7 @@ brotlicffi==1.1.0.0
 chardet==5.2.0
 ConfigParser==7.1.0
 contextlib2==21.6.0
-cryptography==43.0.0
+cryptography==44.0.1
 cycler==0.12.1
 Cython==3.0.11
 cytoolz==0.12.3
@@ -84,7 +84,7 @@ rfc3339_validator==0.1.4
 rfc3986_validator==0.1.1
 rfc3987==1.3.8
 s3fs==2024.6.1
-scikit_learn==1.5.1
+scikit_learn==1.5.0
 scipy==1.14.1
 selenium==4.24.0
 sets==0.3.2
@@ -118,7 +118,7 @@ matplotlib==3.8.3
 numpy==1.24.3
 pandas==2.2.0
 seaborn==0.13.2
-mlflow==2.13.0
+mlflow==2.16.0
 imblearn==0.0
 xgboost==2.1.0
 lightgbm==4.4.0
